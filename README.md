@@ -5,7 +5,7 @@ This is a command line node app that takes in parameters and returns data.
 **node liri.js my-tweets**
 - Returns 20 recent tweets
 
-**node liri.js my-tweets**
+**node liri.js spotify-this-song "song title"**
 - Returns data of top request with this song title from Spotify
 
 **node liri.js movie-this "movie title"**
